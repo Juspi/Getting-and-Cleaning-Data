@@ -4,4 +4,4 @@ This file explains how run_analysis.R works.
 2. Both run_analysis and UCI HAR Dataset must be in your working directory.
 3. Source run_analysis.R in R.
 4. There will be one output files are generated in the current working directory: final_data.txt
-5. Use data <- read.table("final_data.txt") command in R to read the file.
+5. Use data <- read.table("tidy_data.txt") command in R to read the file.
